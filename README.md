@@ -8,16 +8,21 @@ I also enjoy building applications, exploring cloud technologies, and solving ch
 
 ## 🧠 Experience
 
-- 💼 **IT Itern** @ [Progressive Components]  
-  _[May 2025 – August 2025]_  
+- 💼 **IT Itern** @ Progressive Components  
+  _May 2025 – August 2025_  
   - Supported cloud system administration and security operations in Microsoft Azure / Entra ID and Microsoft 365, including infrastructure configuration, IAM, policy enforcement, monitoring, automation, and troubleshooting.
   - Managed enterprise cloud platforms and led security projects using tools like Microsoft Purview, Microsoft Sentinel, and Performance Monitor.
   - Oversaw service tickets in Jira within an Agile environment
 
-- 🔐 **IT Support Specialist** @ [Olivet Nazarene University]  
-  _[October 2024 – Present]_  
+- 🔐 **IT Support Specialist** @ Olivet Nazarene University  
+  _October 2024 – Present_  
   - Collaborated daily with users to identify and resolve harware, software, and network issues.
   - Performed Help Desk level 1 and 2 responsibilities
+  
+- 🔐 **Certifications**
+  - CompTIA Security+
+  - AWS Cloud Academy Graduatae
+
 ---
 
 ## 🛠️ Tools & Technologies
