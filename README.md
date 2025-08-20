@@ -84,4 +84,4 @@ I also enjoy building applications, exploring cloud technologies, and solving ch
 
 ---
 
-> _"Security is not a product, but a process."_ – Bruce Schneier
+> _"The world is but a canvas to our imagination."_ – Henry David Thoreau
