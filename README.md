@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Adrian Cortez
+# 👋 Hi! I'm Adrian Cortez
 
 I'm a **Cybersecurity** and **Software Development** student, aspiring to become a **SOC Analyst** or **Cybersecurity Analyst**, 
 helping organizations detect, respond to, and prevent cyber threats. 
@@ -14,7 +14,7 @@ I also enjoy building applications, exploring cloud technologies, and solving ch
 
 ### 🛡️ Cybersecurity and Administration Tools
 - Microsoft Azure/Entra ID, Microsoft Sentinel, Microsoft Purview
-- Wireshark, Nessus, Nmap, Nessus, Metasploit
+- Wireshark, Nessus, Nmap, Metasploit
 
 ### ⚙️ Other Tools
 - Git & GitHub, Docker, VS Code, Postman, Linux, Virtual Box
