@@ -21,7 +21,7 @@ I also enjoy building applications, exploring cloud technologies, and solving ch
   
 ---
 
-## 🔐 Cybersecurity Projects
+## 🔐 Cybersecurity and Administration Projects
 
 ### 🛡️ **Microsoft Sentinel Projects**
 - Developed and executed hands-on Microsoft Sentinel projects simulating real-world SOC analyst tasks, enhancing expertise in SIEM/SOAR operations and threat detection.
@@ -39,6 +39,16 @@ I also enjoy building applications, exploring cloud technologies, and solving ch
 - Enhanced threat detection and reducing manual incident response time.
 - **Tech:** Python, C++, Xcode
 
+### 🛡🪪 **Cloud Security Projects**
+- A collection of projects done during my internship, with the goal of securing an Azure environment
+- Includes CA Policy creation, DLP, and PIM
+- **Tech:** Microsoft Entra/Azure, Microsoft Purview
+
+### ☁️ **Cloud Administration Projects**
+- Hands-on experience in an enterpise Entra/Azure environment, done during my internship
+- Includes M365 group automation, an Entra Transition Assessment, Azure AD experience, user configuration, and a comprehensive overview of Cloud Admin sites
+- Highlights IAM, MDM, automation, endpoint protection, and documentation skills
+- **Tech:** Microsoft Entra ID/Azure AD, Microsoft 365, Intune, Microsoft Purview, Exchange, Sharepoint, Teams, Acumatica
 ---
 
 ## 💻 Software Development Projects
