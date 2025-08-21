@@ -39,7 +39,7 @@ I also enjoy building applications, exploring cloud technologies, and solving ch
 - Enhanced threat detection and reducing manual incident response time.
 - **Tech:** Python, C++, Xcode
 
-### 🛡🪪 **Cloud Security Projects**
+### 🔒 **Cloud Security Projects**
 - A collection of projects done during my internship, with the goal of securing an Azure environment
 - Includes CA Policy creation, DLP, and PIM
 - **Tech:** Microsoft Entra/Azure, Microsoft Purview
