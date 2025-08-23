@@ -54,7 +54,7 @@ I also enjoy building applications, exploring cloud technologies, and solving ch
 ## 💻 Software Development Projects
 
 ### 🎮 **Ghost Escape Room Game**
-- Built a 3D Unity game where tge user must solve challenges and puzzles to escape a building haunted by a ghost.
+- Built a 3D Unity game where the user must solve challenges and puzzles to escape a building haunted by a ghost.
 - Leveraged Unity's AI Agents
 - **Tech:** Unity, Visual Studio
 
