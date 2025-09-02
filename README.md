@@ -28,23 +28,23 @@ I also enjoy building applications, exploring cloud technologies, and solving ch
 - Projects include initial setup, automation and playbook creation, visualization, threat intel integration, threat detection (analytics) and more.
 - **Tech:** Microsoft Sentinel, Azure
 
-### 🔎 **Vulnerability Scanning Project**
+### 🔎 **[Vulnerability Scanning Project](https://github.com/adrianco12/Vulnerability-Scanning-Project)**
 - Designed and implemented a lab environment simulating enterprise systems using VirtualBox/NAT
 - Performed vulnerability scans using Nessus Essentials and Nmap, identifying vulnerabilities
 - Created detailed remediation reports including CVSS scoring, exploit references, and patch timelines.
 -  **Tech:** Nessus, Nmap, Wireshark, Metasploit, Virtualbox
 
-### ⚙️ **Cybersecurity Automation Scripts**
+### ⚙️ **[Cybersecurity Automation Scripts](https://github.com/adrianco12/Cybersecurity-Automation-Scripts)**
 - Developed automation scripts to streamline cybersecurity tasks—such as email spoof analysis, file integrity monitoring, and typo squat detection.
 - Enhanced threat detection and reducing manual incident response time.
 - **Tech:** Python, C++, Xcode
 
-### 🔒 **Cloud Security Projects**
+### 🔒 **[Cloud Security Projects](https://github.com/adrianco12/Cloud-Security-Projects)**
 - A collection of projects done during my internship, with the goal of securing an Azure environment
 - Includes CA Policy creation, DLP, and PIM
 - **Tech:** Microsoft Entra/Azure, Microsoft Purview
 
-### ☁️ **Cloud Administration Projects**
+### ☁️ **[Cloud Administration Projects](https://github.com/adrianco12/Cloud-Administration-Projects)**
 - Hands-on experience in an enterpise Entra/Azure environment, done during my internship
 - Includes M365 group automation, an Entra Transition Assessment, Azure AD experience, user configuration, and a comprehensive overview of Cloud Admin sites
 - Highlights IAM, MDM, automation, endpoint protection, and documentation skills
