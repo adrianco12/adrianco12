@@ -23,7 +23,7 @@ I also enjoy building applications, exploring cloud technologies, and solving ch
 
 ## 🔐 Cybersecurity and Administration Projects
 
-### 🛡️ **Microsoft Sentinel Projects**
+### 🛡️ **[Microsoft Sentinel Projects](https://github.com/adrianco12/Hands-On-Microsoft-Sentinel-Projects)**
 - Developed and executed hands-on Microsoft Sentinel projects simulating real-world SOC analyst tasks, enhancing expertise in SIEM/SOAR operations and threat detection.
 - Projects include initial setup, automation and playbook creation, visualization, threat intel integration, threat detection (analytics) and more.
 - **Tech:** Microsoft Sentinel, Azure
