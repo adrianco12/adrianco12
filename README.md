@@ -53,17 +53,17 @@ I also enjoy building applications, exploring cloud technologies, and solving ch
 
 ## 💻 Software Development Projects
 
-### 🎮 **Ghost Escape Room Game**
+### 🎮 **[Ghost Escape Room Game](https://github.com/adrianco12/Ghost-Escape-Room-Game)**
 - Built a 3D Unity game where the user must solve challenges and puzzles to escape a building haunted by a ghost.
 - Leveraged Unity's AI Agents
 - **Tech:** Unity, Visual Studio
 
-### 📱 **Task Manager**
+### 📱 **[Task Manager](https://github.com/adrianco12/Task-Manager)**
 - Java application for managing tasks with a priority queue and binary heap.
 - Implemented features for task creation, deletion, and sorting, following SDLC best practices and utilizing object-oriented design.
 - **Tech:** IntelliJ IDE
 
-### 🧰 **Computer Donation Tracker**
+### 🧰 **[Computer Donation Tracker](https://github.com/adrianco12/Computer-Donation-Project)**
 - C# Program used to track donated computer parts.
 - Uilizes a winforms GUI and leverages Object Oriented Programming Principles.
 - **Tech:** Visual Studio
