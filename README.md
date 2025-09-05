@@ -34,6 +34,11 @@ I also enjoy building applications, exploring cloud technologies, and solving ch
 - Created detailed remediation reports including CVSS scoring, exploit references, and patch timelines.
 -  **Tech:** Nessus, Nmap, Wireshark, Metasploit, Virtualbox
 
+### 🤖 **[AI-Powered Cybersecurity Projects](https://github.com/yourusername/ai-cybersecurity-projects)**
+- Built machine learning projects to classify and predict cybersecurity events, including phishing, DoS attacks, malware, and normal network traffic.
+- Implemented models for intrusion detection, anomaly identification, and threat prediction, with interactive testing and feature analysis.
+- **Tech:** Python, scikit-learn, pandas, matplotlib
+
 ### ⚙️ **[Cybersecurity Automation Scripts](https://github.com/adrianco12/Cybersecurity-Automation-Scripts)**
 - Developed automation scripts to streamline cybersecurity tasks—such as email spoof analysis, file integrity monitoring, and typo squat detection.
 - Enhanced threat detection and reducing manual incident response time.
