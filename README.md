@@ -35,8 +35,8 @@ I also enjoy building applications, exploring cloud technologies, and solving ch
 -  **Tech:** Nessus, Nmap, Wireshark, Metasploit, Virtualbox
 
 ### 🤖 **[AI-Powered Cybersecurity Projects](https://github.com/adrianco12/AI-Cybersecurity-Projects)**
-- Built machine learning projects to classify and predict cybersecurity events, including phishing, DoS attacks, malware, and normal network traffic.
-- Implemented models for intrusion detection, anomaly identification, and threat prediction, with interactive testing and feature analysis.
+- Currently building machine learning projects to classify and predict cybersecurity events, including phishing, DoS attacks, malware, and normal network traffic.
+- Implementing models for intrusion detection, anomaly identification, and threat prediction, with interactive testing and feature analysis.
 - **Tech:** Python, scikit-learn, pandas, matplotlib
 
 ### ⚙️ **[Cybersecurity Automation Scripts](https://github.com/adrianco12/Cybersecurity-Automation-Scripts)**
