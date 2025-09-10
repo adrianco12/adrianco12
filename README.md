@@ -54,6 +54,10 @@ I also enjoy building applications, exploring cloud technologies, and solving ch
 - Includes M365 group automation, an Entra Transition Assessment, Azure AD experience, user configuration, and a comprehensive overview of Cloud Admin sites
 - Highlights IAM, MDM, automation, endpoint protection, and documentation skills
 - **Tech:** Microsoft Entra ID/Azure AD, Microsoft 365, Intune, Microsoft Purview, Exchange, Sharepoint, Teams, Acumatica
+
+### ☁️ **More Projects**
+- [Threat Hunting Project]()
+- [Shell Scripts]()
 ---
 
 ## 💻 Software Development Projects
