@@ -56,8 +56,9 @@ I also enjoy building applications, exploring cloud technologies, and solving ch
 - **Tech:** Microsoft Entra ID/Azure AD, Microsoft 365, Intune, Microsoft Purview, Exchange, Sharepoint, Teams, Acumatica
 
 ### ☁️ **More Projects**
-- [Threat Hunting Project]()
-- [Shell Scripts]()
+- [Threat Hunting Project](https://github.com/adrianco12/Threat-Hunting-Project)
+- [Shell Scripts](https://github.com/adrianco12/Shell-Scripting)
+- [AI and ML Projects](https://github.com/adrianco12/AI-Machine-Learning-Projects)
 ---
 
 ## 💻 Software Development Projects
