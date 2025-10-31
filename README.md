@@ -14,7 +14,7 @@ I also enjoy building applications, exploring cloud technologies, and solving ch
 
 ### 🛡️ Cybersecurity and Administration Tools
 - Microsoft Azure/Entra ID, Microsoft Sentinel, Microsoft Purview
-- Wireshark, Nessus, Nmap, Metasploit
+- Wireshark, Nessus, Wazuh, Nmap, Metasploit
 
 ### ⚙️ Other Tools
 - Git & GitHub, Docker, VS Code, Postman, Linux, Virtual Box
