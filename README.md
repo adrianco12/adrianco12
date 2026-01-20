@@ -20,6 +20,11 @@ I also enjoy building applications, exploring cloud technologies, and solving ch
 - Git & GitHub, Docker, VS Code, Postman, Linux, Virtual Box
   
 ---
+### 🔥 **[Check out my newest project! A fantasy football predictor using AI (Neural Networks)!](https://github.com/adrianco12/AI-Fantasy-Football-Predictor)**
+- This project predicts NFL players’ fantasy points using historical stats to improve draft and lineup decisions.  
+- Fully connected neural network learns complex, nonlinear relationships from passing, rushing, receiving stats, player age, usage, and position.  
+- Impact: Provides accurate, generalizable projections that help fantasy football managers make informed strategic choices.  
+- **Tech:** Python, TensorFlow/Keras, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, and Jupyter Notebooks  
 
 ## 🔐 Cybersecurity and Administration Projects
 
