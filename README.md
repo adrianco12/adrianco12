@@ -60,6 +60,15 @@ I also enjoy building applications, exploring cloud technologies, and solving ch
 - Highlights IAM, MDM, automation, endpoint protection, and documentation skills
 - **Tech:** Microsoft Entra ID/Azure AD, Microsoft 365, Intune, Microsoft Purview, Exchange, Sharepoint, Teams, Acumatica
 
+### 🕵️‍♂️ **[Digital Forensics Investigation](https://github.com/adrianco12/Digital-Forensics-Investigation-Project)**
+- Collaborated on a team-based digital forensics project, planting and obfuscating evidence on Windows 10 systems, then investigating another team’s system to locate and attribute evidence.  
+- Utilized techniques such as file deletion, hidden files, altered extensions, macros, steganography, alternate data streams, and unallocated disk space.  
+- Created forensic disk images, validated with MD5 and SHA1 hashes, and analyzed artifacts including files, browser history, cookies, and prefetch data.  
+- Maintained thorough documentation and chain-of-custody procedures throughout the investigation.  
+- **Tech:** Windows 10, Forensic Disk Imaging, MD5/SHA1 Hashing, Artifact Analysis, Digital Evidence Attribution
+
+If you want, I can also make an even punchier version under 3 bullets that’s perfect for a resume or
+
 ### ☁️ **More Projects**
 - [Threat Hunting Project](https://github.com/adrianco12/Threat-Hunting-Project)
 - [Shell Scripts](https://github.com/adrianco12/Shell-Scripting)
