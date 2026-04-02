@@ -67,8 +67,6 @@ I also enjoy building applications, exploring cloud technologies, and solving ch
 - Maintained thorough documentation and chain-of-custody procedures throughout the investigation.  
 - **Tech:** Windows 10, Forensic Disk Imaging, MD5/SHA1 Hashing, Artifact Analysis, Digital Evidence Attribution
 
-If you want, I can also make an even punchier version under 3 bullets that’s perfect for a resume or
-
 ### ☁️ **More Projects**
 - [Threat Hunting Project](https://github.com/adrianco12/Threat-Hunting-Project)
 - [Shell Scripts](https://github.com/adrianco12/Shell-Scripting)
